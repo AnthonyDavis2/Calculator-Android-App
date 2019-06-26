@@ -20,4 +20,4 @@ Basic functioning calculator | Languages: JAVA, XML | IDE: Android Studio
   </li>
 </ul>
 <h3>Display:</h3>
-<img src ="img/displayScreen.png">
+<img src ="img/screenDisplay.png">
