@@ -19,4 +19,5 @@ Basic functioning calculator | Languages: JAVA, XML | IDE: Android Studio
    </ul>
   </li>
 </ul>
-
+<h3>Display:</h3>
+<img src ="img/displayScreen.png">
